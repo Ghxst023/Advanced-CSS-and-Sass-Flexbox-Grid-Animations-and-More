@@ -17,6 +17,9 @@ Dark green: #28b485
 }
 
 html {
+  /* Root size: Default font size = 100%=16px 
+  we want to have 10px 
+  we will divide 10px / 16px = 0.625 * 100 we get 62.5% = 10px  */
   font-size: 62.5%;
 }
 
